@@ -39,7 +39,7 @@ ros2 launch turtlebot3_gazebo navigator.launch.py
 ### Step2 : Execute the following command to start following a red ball in your environment:
 
 ```bash
-ros2 run 
+ros2 run ball_follower red_ball_tracker
 ```
 
 
