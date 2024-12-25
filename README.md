@@ -34,7 +34,7 @@ Run the following command to launch Gazebo and RViz for the TurtleBot3 simulatio
 ```bash
 ros2 launch turtlebot3_gazebo navigator.launch.py
 ```
-# Add a Red Ball in Gazebo
+#### Add a Red Ball in Gazebo
 
 ### Step2 : Execute the following command to start following a red ball in your environment:
 
