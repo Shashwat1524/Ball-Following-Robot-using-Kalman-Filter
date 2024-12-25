@@ -12,7 +12,7 @@
 
 1. Clone this repository into your ROS 2 workspace:
    ```bash
-   git clone https://github.com/Shashwat1524/A-Star-Path-Planning-for-Obstacle-Avoidance-on-TurtleBot3.git
+   git clone https://github.com/Shashwat1524/Ball-Following-Robot-using-Kalman-Filter.git
    ```
 
 2. Build your workspace
