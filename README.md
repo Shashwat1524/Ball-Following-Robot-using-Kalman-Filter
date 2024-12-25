@@ -27,7 +27,16 @@
    ```
    
 ## Usage
-Execute the following command to start following a red ball in your environment:
+
+### Step 1: Launch the TurtleBot3 simulation
+Run the following command to launch Gazebo and RViz for the TurtleBot3 simulation:
+
+```bash
+ros2 launch turtlebot3_gazebo navigator.launch.py
+```
+# Add a Red Ball in Gazebo
+
+### Step2 : Execute the following command to start following a red ball in your environment:
 
 ```bash
 ros2 run 
